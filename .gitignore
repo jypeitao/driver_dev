@@ -16,3 +16,11 @@
 *.exe
 *.out
 *.app
+.tmp_versions/
+.globalmem.mod.*
+Module.symvers
+modules.order
+.globalmem.ko.cmd
+.globalmem.o.cmd
+globalmem.mod.c
+.gitignore
